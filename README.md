@@ -12,9 +12,8 @@
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Jxuanrui&theme=github-compact&hide_border=true&area=true">
 <br/>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jxuanrui&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-<br/>
+
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=py,r,cs,html,css,js&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=py,r,html,css,js&theme=light" />
 </p>
+
